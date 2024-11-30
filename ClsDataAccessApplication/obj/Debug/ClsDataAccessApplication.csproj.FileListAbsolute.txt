@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\ClsDataAccessApplication\bin\Debug\ClsDataAccessApplication.dll
+C:\Users\user\source\repos\ClsDataAccessApplication\bin\Debug\ClsDataAccessApplication.pdb
+C:\Users\user\source\repos\ClsDataAccessApplication\bin\Debug\ClsDataAccessSettings.dll
+C:\Users\user\source\repos\ClsDataAccessApplication\bin\Debug\ClsDataAccessSettings.pdb
+C:\Users\user\source\repos\ClsDataAccessApplication\obj\Debug\ClsDataAccessApplication.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ClsDataAccessApplication\obj\Debug\ClsDataAccessApplication.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ClsDataAccessApplication\obj\Debug\ClsDataA.B97E0C3C.Up2Date
+C:\Users\user\source\repos\ClsDataAccessApplication\obj\Debug\ClsDataAccessApplication.dll
+C:\Users\user\source\repos\ClsDataAccessApplication\obj\Debug\ClsDataAccessApplication.pdb
