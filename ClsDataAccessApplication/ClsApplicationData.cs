@@ -14,10 +14,6 @@ namespace ClsDataAccessApplication
 {
     public class ClsApplicationData
     {
-        public void Test()
-        {
-
-        }
 
         public static bool DeleteApplication(int ApplicationID)
         {
